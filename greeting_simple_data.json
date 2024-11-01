@@ -1,0 +1,23 @@
+{
+    "hello": [
+        "Hello! How can I help you today?",
+        "Hello! What brings you here?",
+        "Hello there! How are you doing?",
+        "Hello! I'm glad to see you!",
+        "Hi there! What can I assist you with?"
+    ],
+    "hi": [
+        "Hi! How's everything going?",
+        "Hi there! What’s on your mind?",
+        "Hi! Need help with something?",
+        "Hi! I'm here to assist you.",
+        "Hi! What would you like to know?"
+    ],
+    "how are you": [
+        "I'm just a program, but I'm here to help you!",
+        "I'm doing great! How about you?",
+        "Doing well, thanks for asking! How can I assist you?",
+        "I'm here and ready to help! What about you?",
+        "I'm functioning as expected! How are you today?"
+    ]
+}
