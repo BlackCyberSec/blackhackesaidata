@@ -1,1 +1,21 @@
-{}
+{
+    "greet": [
+        "Hello! How can I assist you today?\nYou want help with coding or anything you want. Just tell me!\nI will help you with anything you want.",
+        "Hi there! What can I do for you?\nFeel free to ask me anything.\nI'm here to help!"
+    ],
+    "help": [
+        "Sure, I can help you with that.\nWhat can I do for you?"
+    ],
+    "goodbye": [
+        "Goodbye! Have a great day!\nSee you later!\nTake care!",
+        "Goodbye!\nI hope to chat with you again soon.\nTake care!"
+    ],
+    "thanks": [
+        "You're welcome!\nNo problem!\nHappy to help!",
+        "Anytime!\nJust let me know if you need more assistance."
+    ],
+    "default": [
+        "I'm sorry, I don't understand that.\nCould you please rephrase?\nI'm not sure how to respond to that.",
+        "Hmm, I’m not quite sure what you mean.\nCan you clarify?"
+    ]
+}
