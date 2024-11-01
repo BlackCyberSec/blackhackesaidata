@@ -1,21 +1,44 @@
 {
-    "greet": [
-        "Hello! How can I assist you today?\nYou want help with coding or anything you want. Just tell me!\nI will help you with anything you want.",
-        "Hi there! What can I do for you?\nFeel free to ask me anything.\nI'm here to help!"
+    "hello": [
+        "Hello! How can I assist you today?",
+        "Hello! What brings you here today?",
+        "Hello there! How are you doing?",
+        "Hello! I'm glad to see you!",
+        "Hi there! What can I help you with?"
     ],
-    "help": [
-        "Sure, I can help you with that.\nWhat can I do for you?"
+    "hi": [
+        "Hi! How's everything going?",
+        "Hi there! What’s on your mind?",
+        "Hi! Need help with something?",
+        "Hi! I'm here to assist you.",
+        "Hi! What would you like to know?"
     ],
-    "goodbye": [
-        "Goodbye! Have a great day!\nSee you later!\nTake care!",
-        "Goodbye!\nI hope to chat with you again soon.\nTake care!"
+    "how are you": [
+        "I'm just a program, but I'm here to help you!",
+        "I'm doing great! How about you?",
+        "Doing well, thanks for asking! How can I assist you?",
+        "I'm here and ready to help! What about you?",
+        "I'm functioning as expected! How are you today?"
     ],
-    "thanks": [
-        "You're welcome!\nNo problem!\nHappy to help!",
-        "Anytime!\nJust let me know if you need more assistance."
+    "hey": [
+        "Hey! What's up?",
+        "Hey there! How can I help you?",
+        "Hey! What can I do for you?",
+        "Hey! How's it going?",
+        "Hey! Do you need any assistance?"
     ],
-    "default": [
-        "I'm sorry, I don't understand that.\nCould you please rephrase?\nI'm not sure how to respond to that.",
-        "Hmm, I’m not quite sure what you mean.\nCan you clarify?"
+    "greetings": [
+        "Greetings! What would you like to talk about?",
+        "Greetings! How can I assist you today?",
+        "Greetings! I'm here to help.",
+        "Greetings! What can I do for you?",
+        "Greetings! How may I assist you?"
+    ],
+    "welcome": [
+        "Welcome! How can I assist you today?",
+        "Welcome! What brings you here?",
+        "Welcome! I'm glad to have you here!",
+        "Welcome! Feel free to ask me anything.",
+        "Welcome! What would you like to know?"
     ]
 }
