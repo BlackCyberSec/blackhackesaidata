@@ -1,0 +1,14 @@
+{
+    "default": [
+        "I'm sorry, I don't understand that.",
+        "Could you please rephrase your question?",
+        "Hmm, I’m not quite sure what you mean. Can you clarify?",
+        "I didn’t get that. Can you say it differently?",
+        "Let's try that again; I didn't quite catch it.",
+        "I'm not programmed to answer that, but I'm here to help with other questions.",
+        "That's interesting! Could you tell me more?",
+        "I'm here to help, but I'm not sure how to respond to that.",
+        "I don't have the answer to that, but I'm happy to assist with other inquiries.",
+        "Sorry, I didn't catch that. Can you elaborate?"
+    ]
+}
