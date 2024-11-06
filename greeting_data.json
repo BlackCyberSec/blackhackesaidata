@@ -27,18 +27,22 @@
         "Hey! How's it going?",
         "Hey! Do you need any assistance?"
     ],
-    "greetings": [
+    "how are you doing": [
         "Greetings! What would you like to talk about?",
         "Greetings! How can I assist you today?",
         "Greetings! I'm here to help.",
         "Greetings! What can I do for you?",
         "Greetings! How may I assist you?"
     ],
-    "welcome": [
+    "hi what can you do": [
         "Welcome! How can I assist you today?",
         "Welcome! What brings you here?",
         "Welcome! I'm glad to have you here!",
         "Welcome! Feel free to ask me anything.",
         "Welcome! What would you like to know?"
+    ],
+    "hello whats your name": [
+        "my name is BlackHackes AI how can i help you today?",
+        "im BlackHackes AI developed by BlackCyberSec what thing i can help with\njust tell me i will respond to you"
     ]
 }
